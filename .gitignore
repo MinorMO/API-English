@@ -1,0 +1,5 @@
+# Ignorar directorios de dependencias generados
+/node_modules/
+
+# Ignorar archivos de configuración locales
+.env
